@@ -1,0 +1,2 @@
+# FoxOle
+CursorUtil is a COM library I wrote like 16-17 years ago when I created a framework to do distributed Visual FoxPro solutions (making use of DTC/MTS). It allows to convert ADO Recordsets into Visual FoxPro Cursors and viceversa. This library enabled developers to extend Dataenvironment available in FoxPro and use Recordsets in the same way VB did (Comments and instructions on how to use it are in Spanish).
